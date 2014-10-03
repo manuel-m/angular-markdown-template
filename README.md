@@ -12,5 +12,11 @@ Allow markdown edition inside
 *It works!*
 </btf-markdown>
 ```
+### install 
+bower install
+
+### test
+grunt serve
+
 
 derived from yeoman angular generator [and angular-markdow-directive, https://github.com/btford/angular-markdown-directive]
