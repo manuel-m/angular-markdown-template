@@ -14,9 +14,10 @@ Allow markdown edition inside
 ```
 ### install 
 bower install
+npm install
 
-### test
+
 grunt serve
 
 
-derived from yeoman angular generator [and angular-markdow-directive, https://github.com/btford/angular-markdown-directive]
+derived from yeoman angular generator [and angular-markdow-directive](https://github.com/btford/angular-markdown-directive)
